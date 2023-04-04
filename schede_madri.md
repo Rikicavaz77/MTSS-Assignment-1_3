@@ -1,0 +1,8 @@
+2042893  
+2042365
+
+# Schede Madri
+
+* ASUS PRIME Z590-A
+* Gigabyte-X570-AORUS-ELITE
+* MSI X470 Gaming Plus MAX
